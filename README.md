@@ -6,11 +6,11 @@
     alt="abdelghafour77" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=abdelghafour77" alt="abdelghafour77" />
   </a>
-</p>
+</p> -->
 
 - 🌱 I’m currently learning **Javascript**
 
