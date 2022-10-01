@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelghafour AOUAD</h1>
+<h1 align="center">Hi 👋, I’m Abdelghafour AOUAD</h1>
 <h3 align="center">I’m fullstack developer from Morocco</h3>
 
 <p align="left">
@@ -98,6 +98,28 @@
   </a>
 
 </p>
+
+### Socials
+
+<p align="left">
+  <a href="https://www.github.com/abdelghafour77" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+      width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdelghafour-aouad/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+      width="32" height="32" />
+  </a>
+  <a href="https://twitter.com/aaaaouad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+      width="32" height="32" />
+  </a>
+</p>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/abdelghafour77">
   <img align="left"
