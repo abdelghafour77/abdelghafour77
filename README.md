@@ -17,16 +17,24 @@
 - 📫 How to reach me **abdelghafour.aouad0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://linkedin.com/in/abdelghafour-aouad" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="abdelghafour-aouad" height="30" width="40" />
+  <a href="https://www.github.com/abdelghafour77" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+      width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdelghafour-aouad/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+      width="32" height="32" />
   </a>
   <a href="https://fb.com/abdelghafour_aouad" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="abdelghafour aouad" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/aaaaouad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+      width="32" height="32" />
   </a>
 </p>
 
@@ -98,24 +106,6 @@
   </a>
 
 </p>
-
-### Socials
-
-<p align="left">
-  <a href="https://www.github.com/abdelghafour77" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-      width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdelghafour-aouad/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-      width="32" height="32" />
-  </a>
-  <a href="https://twitter.com/aaaaouad" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-      width="32" height="32" />
-  </a>
-</p>
-
 
 ### Badges
 
