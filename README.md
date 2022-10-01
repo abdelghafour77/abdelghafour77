@@ -28,9 +28,9 @@
       width="32" height="32" />
   </a>
   <a href="https://fb.com/abdelghafour_aouad" target="blank">
-    <img align="center"
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="abdelghafour aouad" height="30" width="40" />
+      alt="abdelghafour aouad" height="32" width="32" />
   </a>
   <a href="https://twitter.com/aaaaouad" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
