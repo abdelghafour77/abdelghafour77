@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I’m Abdelghafour AOUAD</h1>
 <h3 align="center">I’m fullstack developer from Morocco</h3>
+
 # 💫 About Me:
+
 🌱 I’m currently learning Javascript
 
 ## 🌐 Socials:
