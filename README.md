@@ -5,6 +5,10 @@
 
 🌱 I’m currently learning Javascript
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=abdelghafour77&icon=5&color=1)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdo.aouad1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelghafour-aouad)
@@ -22,7 +26,3 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=abdelghafour77&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=abdelghafour77&icon=5&color=1)](https://visitcount.itsvg.in)
