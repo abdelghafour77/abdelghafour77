@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Abdelghafour AOUAD</h1>
-<h2 align="center">I’m fullstack developer from Morocco</h2>
+<h2 align="center">I’m fullstack developer from Morocco.</h2>
 
 # 💫 About Me:
 
