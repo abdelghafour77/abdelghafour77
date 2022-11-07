@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Abdelghafour AOUAD</h1>
-<h2 align="center">I’m fullstack developer from Morocco.</h2>
+<h2 align="center">I’m fullstack developer from Morocco</h2>
 
 # 💫 About Me:
 
@@ -22,5 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafour77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=abdelghafour77&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
