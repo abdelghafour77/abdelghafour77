@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Javascript
+🌱 I’m currently learning Javascript & TailwindCSS
 
 [![](https://visitcount.itsvg.in/api?id=abdelghafour77&icon=5&color=1)](https://visitcount.itsvg.in)
 
