@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Javascript & TailwindCSS
 
-[![](https://visitcount.itsvg.in/api?id=abdelghafour77&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdelghafour77&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 
