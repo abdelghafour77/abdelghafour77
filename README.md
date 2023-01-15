@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Javascript & SASS
+🌱 I’m currently learning Javascript & SASS.
 
 [![](https://visitcount.itsvg.in/api?id=abdelghafour77&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
