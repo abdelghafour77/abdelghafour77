@@ -39,9 +39,9 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=abdelghafour77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=abdelghafour77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafour77&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafour77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafour77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdelghafour77&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
