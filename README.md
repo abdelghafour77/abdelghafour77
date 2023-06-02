@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Vue.js & Laravel.
+🌱 I’m currently learning Typescript & React.
 
 [![](https://visitcount.itsvg.in/api?id=abdelghafour77&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
