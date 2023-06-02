@@ -39,6 +39,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 # 📊 GitHub Stats:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=abdelghafour77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
